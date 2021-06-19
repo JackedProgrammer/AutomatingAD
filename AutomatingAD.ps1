@@ -359,7 +359,7 @@ $SyncFieldMap=@{
 
 $CsvFilePath="C:\Data\Employees.csv"
 $Delimiter=","
-$Domain="jacked.ca"
+$Domain="YOURDOMAIN.COM"
 $UniqueId="EmployeeID"
 $OUProperty="Office"
 $KeepDisabledForDays=7
