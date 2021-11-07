@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<data>
+	<group>
+		<name>Programmers</name>
+		<titles>
+			<title>Jr Developper</title>
+			<title>Sr Developper</title>
+		</titles>
+	</group>
+	<group>
+		<name>Management</name>
+		<titles>
+			<title>CEO</title>
+			<title>Project Manager</title>
+		</titles>
+	</group>
+</data>
